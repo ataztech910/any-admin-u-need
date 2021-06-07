@@ -12,7 +12,6 @@ const Template: Story<InputProps> = (args) => <Input {...args} />;
 
 export const Regular = Template.bind({});
 Regular.args = {
-    value: 'Input',
     type: 'text',
     size: 'small'
 };
