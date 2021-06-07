@@ -1,3 +1,6 @@
+# Any Dashboard App
+This is a portfolio application to operate with AWS Amplify using React / Redux and Typescript 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
